@@ -49,4 +49,4 @@ The benchmark uses standard **performance metrics** to assess clone detection to
 
 ## **References**  
 For detailed methodology and evaluation results, see:  
-[Thaller et al., "Semantic Clone Detection via Probabilistic Software Modeling"](https://link-to-paper).  
+[Thaller et al., "Semantic Clone Detection via Probabilistic Software Modeling"](https://hannes-thaller/publications/Thaller2020c.pdf).  
